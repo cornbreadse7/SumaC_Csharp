@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SfIlPVYvD7cE5OOf3cI/gGP0V0AsjAi2H3mRJO35NjBTwibIPbMHaCWJPnnNchEjF2IhH0IzYo2FmOhQT+uzcg==",
+  "success": true,
+  "projectFilePath": "/home/cicepac/.local/share/Trash/files/SumaC_Csharp/SumaC_Csharp/SumaC_Csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/cicepac/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/cicepac/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
