@@ -1,0 +1,8 @@
+dotnet new console -n SumaApp
+cd SumaApp
+
+gcc -shared -fPIC -o libsuma.so suma.c
+
+dotnet build
+
+dotnet run
